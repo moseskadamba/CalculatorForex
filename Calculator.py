@@ -39,7 +39,7 @@ def clearFun():
 labelTitle = Label(root, text="")
 
 labelAcountSize = Label(root, text="Account Size")
-labelRiskPercentage = Label(root, text="Risk Ratio %")
+labelRiskPercentage = Label(root, text="Risk Ratio in %")
 labelPips = Label(root, text="Pips to Risk")
 
 labelLotSize = Label(root, text="Lot Size")
